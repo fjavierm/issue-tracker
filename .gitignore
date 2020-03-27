@@ -1,0 +1,4 @@
+### Intellij ###
+## configuration files
+.idea/
+*.iml
